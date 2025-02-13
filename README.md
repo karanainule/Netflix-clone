@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Project Walk-Through](#project-walk-through)
-  - [Home Page](#home-page)
+- [Home Page](#home-page)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Future Improvements](#future-improvements)
