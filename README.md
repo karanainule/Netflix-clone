@@ -25,12 +25,13 @@
 <div align="center"><a name="menu"></a>
 
 ![ScreenShot](assets/images/Readme/1.png)
-![ScreenShot](/public/images/readme/2.png)
-![ScreenShot](/public/images/readme/3.png)
-![ScreenShot](/public/images/readme/4.png)
-![ScreenShot](/public/images/readme/5.png)
-![ScreenShot](/public/images/readme/6.png)
-![ScreenShot](/public/images/readme/7.png)
+![ScreenShot](assets/images/Readme/2.png)
+![ScreenShot](assets/images/Readme/3.png)
+![ScreenShot](assets/images/Readme/4.png)
+![ScreenShot](assets/images/Readme/5.png)
+![ScreenShot](assets/images/Readme/6.png)
+![ScreenShot](assets/images/Readme/7.png)
+
 
 </div>
 
