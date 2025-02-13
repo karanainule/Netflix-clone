@@ -24,10 +24,13 @@
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/1.jp)
-![ScreenShot](/public/images/readme/2.jpg)
-![ScreenShot](/public/images/readme/3.jpg)
-![ScreenShot](/public/images/readme/4.jpg)
+![ScreenShot](assets/images/Readme/1.png)
+![ScreenShot](/public/images/readme/2.png)
+![ScreenShot](/public/images/readme/3.png)
+![ScreenShot](/public/images/readme/4.png)
+![ScreenShot](/public/images/readme/5.png)
+![ScreenShot](/public/images/readme/6.png)
+![ScreenShot](/public/images/readme/7.png)
 
 </div>
 
