@@ -42,4 +42,4 @@
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/karanainule/netflix-clone-html-css.git
+   git clone https://github.com/karanainule/netflix-clone.git
